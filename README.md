@@ -30,7 +30,7 @@ Sou um desenvolvedor apaixonado por tecnologia e programação. Atualmente, esto
 ## 📊 GitHub Stats
 ![Marcos's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcosSouzaSilva&show_icons=true&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosSouzaSilva&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosSouzaSilva&layout=compact&theme=dracula&langs_count=6)
 
 ## 🌱 O que estou aprendendo atualmente
 Estou aprofundando meus conhecimentos em Spring Boot para construir aplicações web robustas e escaláveis.
