@@ -34,7 +34,7 @@ Sou um desenvolvedor apaixonado por tecnologia e programação. Atualmente, esto
 Estou aprofundando meus conhecimentos em Spring para construir aplicações web robustas e escaláveis.
 
 ## 📫 Como entrar em contato
-Você pode me encontrar no [LinkedIn](https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit), ou me enviar um email para [seuemail@gmail.com](souzasilvam582@gmail.com).
+Você pode me encontrar no [LinkedIn](https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit), ou me enviar um email para [souzasilvam582@gmail.com](mailto:souzasilvam582@gmail.com).
 
 ---
 
