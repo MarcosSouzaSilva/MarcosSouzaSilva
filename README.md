@@ -3,10 +3,10 @@
 <img src="https://via.placeholder.com/100" align="right" />
 
 ## 🌐 Conecte-se comigo:
-[![Gmail](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSHxwLWxhStJnbLbJhwxztrKZrJRwLMXPXGNKbWRtdQfFkxwvrXlrsxsLcVpDRdFkKMtfFDq)
-[![LinkedIn](https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit)
-[![Instagram](https://www.instagram.com/marcosouzss?igsh=eXo1c2tndW1ma2Nx)
-[![GitHub](https://github.com/MarcosSouzaSilva)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white)](souzasilvam582@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/marcosouzss?igsh=eXo1c2tndW1ma2Nx)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/MarcosSouzaSilva)
 
 ## 🚀 Sobre mim
 Sou um desenvolvedor apaixonado por tecnologia e programação. Atualmente, estou focado em aprender e me aprimorar nas seguintes tecnologias:
