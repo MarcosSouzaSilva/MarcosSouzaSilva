@@ -3,10 +3,10 @@
 <img src="IMG-20240214-WA0102" align="right" />
 
 ## 🌐 Conecte-se comigo:
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white)](souzasilvam582@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/marcosouzss?igsh=eXo1c2tndW1ma2Nx)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/MarcosSouzaSilva)
+<a href="mailto:souzasilvam582@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail"></a>
+<a href="https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.instagram.com/marcosouzss?igsh=eXo1c2tndW1ma2Nx" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://github.com/MarcosSouzaSilva" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" alt="GitHub"></a>
 
 ## 🚀 Sobre mim
 Sou um desenvolvedor apaixonado por tecnologia e programação. Atualmente, estou focado em aprender e me aprimorar nas seguintes tecnologias:
@@ -28,13 +28,13 @@ Sou um desenvolvedor apaixonado por tecnologia e programação. Atualmente, esto
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
 
 ## 📊 GitHub Stats
-![Marcos's GitHub stats](https://github-readme-stats.vercel.app/api?username=seugitHub&show_icons=true&theme=dracula)
+![Marcos's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcosSouzaSilva&show_icons=true&theme=dracula)
 
 ## 🌱 O que estou aprendendo atualmente
-Estou aprofundando meus conhecimentos em Spring para construir aplicações web robustas e escaláveis.
+Estou aprofundando meus conhecimentos em Spring Boot para construir aplicações web robustas e escaláveis.
 
 ## 📫 Como entrar em contato
-Você pode me encontrar no [LinkedIn](https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit), ou me enviar um email para [souzasilvam582@gmail.com](mailto:souzasilvam582@gmail.com).
+Você pode me encontrar no <a href="https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit" target="_blank">LinkedIn</a>, ou me enviar um email para [souzasilvam582@gmail.com](mailto:souzasilvam582@gmail.com).
 
 ---
 
