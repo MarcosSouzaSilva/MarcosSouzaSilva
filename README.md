@@ -1,6 +1,6 @@
 # 👋 Olá, Eu sou Marcos Souza Silva
 
-<img src="IMG-20240214-WA0102" align="right" />
+
 
 ## 🌐 Conecte-se comigo:
 <a href="mailto:souzasilvam582@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail"></a>
