@@ -9,7 +9,7 @@
 <a href="https://github.com/MarcosSouzaSilva" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" alt="GitHub"></a>
 
 ## 🚀 Sobre mim
-Sou um desenvolvedor apaixonado por tecnologia e programação. Atualmente, estou focado em aprender e me aprimorar nas seguintes tecnologias:
+Sou um desenvolvedor apaixonado por tecnologia e programação. Atualmente, estou focado em me aprimorar nas seguintes tecnologias:
 
 - **Java**
 - **HTML & CSS**
