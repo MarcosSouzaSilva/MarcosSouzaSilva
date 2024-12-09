@@ -17,6 +17,8 @@ Sou um desenvolvedor apaixonado por tecnologia e programação. Atualmente, esto
 - **MongoDB**
 - **JavaScript**
 - **Spring Boot**
+- **Docker**
+- **AWS**
 
 ## 💻 Tecnologias & Ferramentas
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
@@ -26,6 +28,8 @@ Sou um desenvolvedor apaixonado por tecnologia e programação. Atualmente, esto
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)  
 
 ## 📊 GitHub Stats
 ![Marcos's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcosSouzaSilva&show_icons=true&theme=dracula)
