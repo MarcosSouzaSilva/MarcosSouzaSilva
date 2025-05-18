@@ -1,7 +1,5 @@
 # 👋 Olá, Eu sou Marcos Souza Silva
 
-
-
 ## 🌐 Conecte-se comigo:
 <a href="mailto:souzasilvam582@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail"></a>
 <a href="https://www.linkedin.com/in/marcos-souza-silva-550aa22a1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white" alt="LinkedIn"></a>
@@ -16,6 +14,7 @@ Sou um desenvolvedor apaixonado por tecnologia e programação. Atualmente, esto
 - **MySQL**
 - **MongoDB**
 - **JavaScript**
+- **Python**
 - **Spring Boot**
 - **Docker**
 - **AWS**
@@ -27,9 +26,10 @@ Sou um desenvolvedor apaixonado por tecnologia e programação. Atualmente, esto
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)  
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ## 📊 GitHub Stats
 ![Marcos's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcosSouzaSilva&show_icons=true&theme=dracula)
