@@ -13,7 +13,6 @@ Sou um desenvolvedor apaixonado por tecnologia e programação. Atualmente, esto
 - **HTML & CSS**
 - **MySQL**
 - **MongoDB**
-- **JavaScript**
 - **Python**
 - **Spring Boot**
 - **Docker**
@@ -25,7 +24,6 @@ Sou um desenvolvedor apaixonado por tecnologia e programação. Atualmente, esto
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
