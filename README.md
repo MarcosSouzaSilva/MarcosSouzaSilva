@@ -33,7 +33,7 @@ Sou um desenvolvedor apaixonado por tecnologia e programação. Atualmente, esto
 Estou aprofundando meus conhecimentos em Spring Boot para construir aplicações web robustas e escaláveis.
 
 ## 📫 Como entrar em contato
-Você pode me encontrar no <a href="https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit" target="_blank">LinkedIn</a>, ou me enviar um email para <a href="mailto:souzasilvam582@gmail.com" target="_blank">souzasilvam582@gmail.com</a>.
+Você pode me encontrar no <a href="https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit" target="_blank">LinkedIn</a>, ou me enviar um email para <a href="mailto:marcossouzasilva582@outlook.com" target="_blank">marcossouzasilva582@outlook.com</a>.
 
 ---
 
