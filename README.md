@@ -29,11 +29,6 @@ Sou um desenvolvedor apaixonado por tecnologia e programação. Atualmente, esto
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-## 📊 GitHub Stats
-![Marcos's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcosSouzaSilva&show_icons=true&theme=dracula)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosSouzaSilva&layout=compact&theme=dracula&langs_count=6)
-
 ## 🌱 O que estou aprendendo atualmente
 Estou aprofundando meus conhecimentos em Spring Boot para construir aplicações web robustas e escaláveis.
 
